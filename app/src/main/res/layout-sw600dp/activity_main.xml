@@ -14,14 +14,14 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/app_name"
-        tools:layout_editor_absoluteX="165dp"
-        tools:layout_editor_absoluteY="101dp" />
+        tools:layout_editor_absoluteX="415dp"
+        tools:layout_editor_absoluteY="438dp" />
 
     <Button
         android:id="@+id/button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="126dp"
+        android:layout_height="47dp"
         android:text="@string/app_name"
-        tools:layout_editor_absoluteX="138dp"
-        tools:layout_editor_absoluteY="195dp" />
+        tools:layout_editor_absoluteX="398dp"
+        tools:layout_editor_absoluteY="609dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
